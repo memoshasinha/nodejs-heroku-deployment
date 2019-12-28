@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-heroku-deployment",
+  "version": "1.0.0",
+  "description": "nodejs application deployment on heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memoshasinha/nodejs-heroku-deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memoshasinha/nodejs-heroku-deployment/issues"
+  },
+  "homepage": "https://github.com/memoshasinha/nodejs-heroku-deployment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
